@@ -1,1 +1,1 @@
-# Mason's transcriptomics
+# Mason's spatial transcriptomics
